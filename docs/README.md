@@ -11,8 +11,8 @@ title: Adversarial and Noise Robust Training for Lightweight Audio Event Detecti
 #### Team
 
 - E/20/371, Rishopika S, [e20371@eng.pdn.ac.lk](mailto:e20371@eng.pdn.ac.lk)
-- E/20/338, Rishanthan S
-- E/20/376, R.M.M. Shyamantha
+- E/20/338, Rishanthan S,[e20338@eng.pdn.ac.lk](mailto:e20338@eng.pdn.ac.lk)
+- E/20/376, R.M.M. Shyamantha,[e20376@eng.pdn.ac.lk](mailto:e20376@eng.pdn.ac.lk)
 
 #### Supervisors
 
