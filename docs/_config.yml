@@ -1,13 +1,16 @@
 # This theme is based on https://github.com/jekyll/minima
 # Please refer above link to know the available configurations
 
-title: ""
-remote_theme: cepdnaclk/eYY-project-theme
-description: ""
-markdown: kramdown
+# title: ""
+# remote_theme: cepdnaclk/eYY-project-theme
+# description: ""
+# markdown: kramdown
 
-kramdown:
-  parse_block_html: true
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
+# kramdown:
+#   parse_block_html: true
+#   syntax_highlighter_opts:
+#     block:
+#       line_numbers: false
+title: Adversarial and Noise Robust Training for Lightweight Audio Event Detection
+description: Final Year Project - University of Peradeniya
+theme: jekyll-theme-cayman
