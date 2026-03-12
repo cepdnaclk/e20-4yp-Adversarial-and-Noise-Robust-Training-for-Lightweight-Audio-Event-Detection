@@ -26,6 +26,13 @@
             "email": "rukupuvan@gmail.com"
         }
     ],
+    "media": [
+        {
+            "type": "youtube",
+            "title": "",
+            "url": "#"
+        }
+    ],
     "tags": ["Artificial Intelligence",
 "Deep Learning",
 "Audio Processing",
@@ -33,5 +40,6 @@
 "Healthcare AI",
 "Respiratory Disease Detection"],
 
-    
+    "image":"",
+    "thumbnail":"thumbnail.jpg"
 }
